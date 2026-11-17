@@ -1,2 +1,3 @@
 # CustomDecks
-Custo deck repository for EdoPro for me and my friends
+Custom deck repository for EdoPro for me and my friends
+This is a test messenge
